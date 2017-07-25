@@ -1,5 +1,6 @@
 data
 software
+report
 sample
 *.csv 
 *.R.proj
