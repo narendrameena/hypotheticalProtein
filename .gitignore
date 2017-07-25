@@ -3,3 +3,6 @@ software
 sample
 *.csv 
 *.R.proj
+
+.DS_Store
+.Rproj.user
